@@ -13,7 +13,7 @@ Este ejercicio está diseñado para fortalecer habilidades en:
 Además, se trabaja en un entorno real de desarrollo utilizando Visual Studio Code, lo que permite familiarizarse con herramientas y flujos propios de proyectos web.
 
 
-⚙Funcionalidades
+Funcionalidades
 -  Agregar nombres
 Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en "Añadir" para agregarlos a la lista.
 -  Validación de entrada
@@ -32,22 +32,16 @@ Al hacer clic en "Sortear Amigo", se selecciona un nombre al azar de la lista y 
 | Visual Studio Code | Entorno de desarrollo y edición de código | 
 
 
-Cómo ejecutar el proyecto
+Cómo ejecutar el proyecto:
 Este proyecto puede ejecutarse directamente en el navegador. No requiere instalación de dependencias ni configuración adicional.
 Requisitos previos
 - Navegador web moderno (Chrome, Firefox, Edge, etc.)
 - Editor de código: Visual Studio Code
 Recomendado instalar la extensión Live Server para visualizar los cambios en tiempo real.
-Instalación
-- Clona el repositorio:
-git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
-- Accede al directorio del proyecto:
-cd challenge-amigo-secreto_esp-main
-- Abre el archivo index.html en tu navegador o ejecuta Live Server desde Visual Studio Code.
 
 Instalación
-- Clona el repositorio:
-git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+- baja el repositorio:
+(https://app.aluracursos.com/course/logica-programacion-challenge-amigo-secreto/task/89513) 
 - Accede al directorio del proyecto:
 cd challenge-amigo-secreto_esp-main
 - Abre el archivo index.html en tu navegador o ejecuta Live Server desde Visual Studio Code.
